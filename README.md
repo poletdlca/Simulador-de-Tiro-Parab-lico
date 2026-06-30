@@ -1,23 +1,5 @@
 # Simulador de Tiro Parabólico 
 
-## Estructura del proyecto
-
-tiro-parabolico/
-├── include/
-│   ├── Parametros.h 
-│   ├── Punto.h
-│   ├── Proyectil.h
-│   └── TiroParabolico.h
-├── src/
-│   ├── Parametros.cpp
-│   ├── Proyectil.cpp
-│   ├── TiroParabolico.cpp
-│   └── main.cpp
-├── data/
-├── Makefile
-├── .gitignore
-└── README.md
-
 ## Física implementada
 
 - Tiempo de vuelo: `T = 2·v0·sin(θ)/g`
