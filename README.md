@@ -1,5 +1,7 @@
 # Simulador de Tiro Parabólico 
 
+Herramienta digital que recrea de manera visual y matemática el movimiento de un objeto lanzado al aire con un ángulo determinado.
+
 ## Física implementada
 
 - Tiempo de vuelo: `T = 2·v0·sin(θ)/g`
